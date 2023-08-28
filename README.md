@@ -1,13 +1,15 @@
 # Wireframes
 
 
-![](./Screenshot-2023-08-27-102828.png)
-![](./Screenshot 2023-08-27 102945.png)
-![](./Screenshot 2023-08-27 102758.png)
-![](./Screenshot 2023-08-27 103010.png)
-![](./Screenshot 2023-08-27 103024.png)
-![](./Screenshot 2023-08-27 102859.png)
-![](./Screenshot 2023-08-27 102916.png)
+![](./1.png)
+![](./2.png)
+![](./3.png)
+![](./4.png)
+![](./5.png)
+![](./6.png)
+![](./7.png)
+![](./8.png)
+
 
 # User Stories
 
@@ -166,4 +168,8 @@ In today's digital age, social media has become a central part of our lives. How
 	Our platform will prioritize user-friendly design, intuitive navigation, and responsive layout to ensure a seamless and enjoyable user experience. User feedback and usability testing will be conducted to continuously improve the platform's usability.
 
 # Domain Modeling
-![](./Screenshot 2023-08-28 222752.png)
+![](./er.png)
+![](./react.png)
+
+# Data Base
+![](./data_base.png)
