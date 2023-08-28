@@ -1,6 +1,7 @@
 # Wireframes
 
-![](./Screenshot 2023-08-27 102828.png)
+
+![](./Screenshot-2023-08-27-102828.png)
 ![](./Screenshot 2023-08-27 102945.png)
 ![](./Screenshot 2023-08-27 102758.png)
 ![](./Screenshot 2023-08-27 103010.png)
