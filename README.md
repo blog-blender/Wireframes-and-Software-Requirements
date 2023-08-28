@@ -165,4 +165,4 @@ In today's digital age, social media has become a central part of our lives. How
 	Our platform will prioritize user-friendly design, intuitive navigation, and responsive layout to ensure a seamless and enjoyable user experience. User feedback and usability testing will be conducted to continuously improve the platform's usability.
 
 # Domain Modeling
-
+![](./Screenshot 2023-08-28 222752.png)
